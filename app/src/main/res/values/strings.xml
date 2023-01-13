@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HappyBirthdayAppByMUmarJ</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Happy Birthday Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="msg_fireworks">Click for more fireworks!</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="msg_hbd">Happy Birthday!</string>
+    <string name="msg_sign">From Umar</string>
+    <!--    Content Description Messages -->
+    <string name="image_cd_hbd">Happy Birthday Image with Gift Box and Clouds</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
